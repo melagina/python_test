@@ -1,8 +1,0 @@
-class Person:
-    def __init__(self, name):
-        self.name = name
-    def sayHi(self, a):
-        print('Hello, how are you?', a)
-p = Person()
-print("person = ", p)
-p.sayHi('sdsd')
