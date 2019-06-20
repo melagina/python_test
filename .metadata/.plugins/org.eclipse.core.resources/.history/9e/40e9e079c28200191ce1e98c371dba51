@@ -1,0 +1,8 @@
+'''
+Created on 30 мая 2019 г.
+
+@author: m.elagina
+'''
+def sayHello():
+    print('Hello World!') # block belonging to the function
+# End of function

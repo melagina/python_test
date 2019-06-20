@@ -1,0 +1,13 @@
+'''
+Created on 30 мая 2019 г.
+
+@author: m.elagina
+'''
+def printMax(a, b):
+    if a > b:
+        print(a, 'is maximum')
+    elif a == b:
+        print(a, 'is equal to', b)
+    else:
+        print(b, 'is maximum')
+        

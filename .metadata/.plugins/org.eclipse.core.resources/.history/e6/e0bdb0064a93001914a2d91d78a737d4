@@ -1,0 +1,7 @@
+class Person:
+    pass # An empty block
+    def sayHi(self, a):
+        print('Hello, how are you?', a)
+p = Person()
+print("person = ", p)
+p.sayHi()

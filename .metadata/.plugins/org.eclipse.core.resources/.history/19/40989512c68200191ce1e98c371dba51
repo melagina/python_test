@@ -1,0 +1,13 @@
+'''
+Created on 30 мая 2019 г.
+
+@author: m.elagina
+'''
+x = 50
+def func(v):
+    print('v = ', v)
+    v = 2
+    print('changed, v = ', v)
+
+func(x)
+print('x is still' , x)    

@@ -1,0 +1,10 @@
+'''
+Created on 27 мая 2019 г.
+
+@author: m.elagina
+'''
+import pyowm
+owm = pyowm.OWM('1d6a017c26dadeaa8e87266317e4a9f7')  # You MUST provide a valid API key
+#place = input("input  location: ")
+w = observation.get_weather()
+print(w)   

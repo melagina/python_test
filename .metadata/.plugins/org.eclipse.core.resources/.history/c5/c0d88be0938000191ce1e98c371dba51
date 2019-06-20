@@ -1,0 +1,21 @@
+'''
+Created on 27 мая 2019 г.
+
+@author: m.elagina
+'''
+from colorama import init
+from colorama import Fore, Back, Style
+init()
+what = input("input action(+, -): ")
+
+a = float(input("input fist digit: "))
+b = float(input("input second digit: "))
+
+if what == "+":
+    c = a+b
+    
+elif what == "-":
+    c = a-b
+else:
+    c=0    
+print("result: " , c)    

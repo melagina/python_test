@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\py\.metadata\.plugins\org.eclipse.core.resources\.projects\HelloWorld\com.python.pydev.analysis\v2_indexcache
+helloworld|1559220712112494000|D:\py\HelloWorld\helloworld.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=helloworld
+1=D:\py\HelloWorld\helloworld.py
+-- END DICTIONARY
+-- START TREE 1
+8
+a|1|a!1^41#1*19@
+b|1|b!1^43#1*19@
+c|1|c!1^44#1*19@
+fnu|1|fnumber!1^5#1*19@
+nam|1|name!1^7#1*19@
+num|1|number!1^3#1*19@
+sta|1|status!1^10#1*19@
+var|1|varable!1^13#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

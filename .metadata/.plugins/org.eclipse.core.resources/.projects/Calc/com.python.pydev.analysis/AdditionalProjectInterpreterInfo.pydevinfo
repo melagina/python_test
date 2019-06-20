@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\py\.metadata\.plugins\org.eclipse.core.resources\.projects\Calc\com.python.pydev.analysis\v2_indexcache
+Calc|1559140442277312000|D:\py\Calc\Calc.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=D:\py\Calc\Calc.py
+2=Calc
+-- END DICTIONARY
+-- START TREE 1
+4
+a|1|a!1^15#1*19@
+b|1|b!1^16#1*19@
+c|1|c!1^19#5*19@
+wha|1|what!1^12#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

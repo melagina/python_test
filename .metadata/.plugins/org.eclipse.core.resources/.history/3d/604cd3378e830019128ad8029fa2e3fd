@@ -1,0 +1,11 @@
+'''
+Created on 31 мая 2019 г.
+
+@author: m.elagina
+'''
+# import using_sys
+from using_sys import  __qwe__
+
+qq()
+print(var)
+__qwe__

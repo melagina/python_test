@@ -1,0 +1,19 @@
+'''
+Created on 27 мая 2019 г.
+
+@author: m.elagina
+'''
+
+what = input("input action(+, -): ")
+
+a = input("input fist digit: ")
+b = input("input second digit: ")
+
+if what == "+":
+    c = a+b
+    
+elif what == "-":
+    c = a-b
+# else:
+#     c=0    
+print("result:" + c)    

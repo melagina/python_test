@@ -1,0 +1,8 @@
+'''
+Created on 31 мая 2019 г.
+
+@author: m.elagina
+'''
+shoplist = ['apple', 'mango', 'carrot', 'banana']
+print('I have', len(shoplist), 'items to purchase.')
+print('These items are:', end=' ')
