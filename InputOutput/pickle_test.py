@@ -5,6 +5,7 @@ Created on 20 июн. 2019 г.
 '''
 import pickle
 
+
 shoplistfile = 'list.data'
 shoplist = ['apple', 'mango', 'carrot']
 
